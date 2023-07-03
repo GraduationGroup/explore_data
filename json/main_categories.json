@@ -1,0 +1,1276 @@
+[{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3981a"
+  },
+  "Id": 57,
+  "Avatar": "foody-57-bankatm-635950379479181881.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Bank - ATM",
+  "UrlRewriteName": "bank-atm",
+  "ResultCount": 6796,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Bank - ATM"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3981b"
+  },
+  "Id": 58,
+  "Avatar": "foody-58-tramxang-635950379167125646.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trạm xăng",
+  "UrlRewriteName": "tram-xang",
+  "ResultCount": 1262,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tram xang"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3981c"
+  },
+  "Id": 59,
+  "Avatar": "foody-59-vienthong-635950378909277774.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Viễn thông",
+  "UrlRewriteName": "vien-thong",
+  "ResultCount": 1500,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Vien thong"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3981d"
+  },
+  "Id": 60,
+  "Avatar": "foody-60-vantai-635950378631646977.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Vận tải",
+  "UrlRewriteName": "van-tai",
+  "ResultCount": 2095,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Van tai"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3981e"
+  },
+  "Id": 61,
+  "Avatar": "foody-61-giatui-635950378331859453.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Giặt ủi",
+  "UrlRewriteName": "giat-ui",
+  "ResultCount": 1884,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Giat ui"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3981f"
+  },
+  "Id": 62,
+  "Avatar": "foody-62-vatnuoi-635950378037929623.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Vật nuôi",
+  "UrlRewriteName": "vat-nuoi",
+  "ResultCount": 339,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Vat nuoi"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39820"
+  },
+  "Id": 68,
+  "Avatar": "foody-68-trusobannganh-635950375670400330.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trụ Sở Ban Ngành",
+  "UrlRewriteName": "tru-so-ban-nganh",
+  "ResultCount": 100,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tru So Ban Nganh"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39821"
+  },
+  "Id": 71,
+  "Avatar": "foody-71-dichvuvesinh-635950375043882237.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Dịch Vụ Vệ Sinh",
+  "UrlRewriteName": "dich-vu-ve-sinh",
+  "ResultCount": 73,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Dich Vu Ve Sinh"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39822"
+  },
+  "Id": 72,
+  "Avatar": "foody-72-dichvusuachuanhacua-635950374838449985.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Dịch Vụ Sửa Chữa Nhà Cửa",
+  "UrlRewriteName": "dich-vu-sua-chua-nha-cua",
+  "ResultCount": 51,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Dich Vu Sua Chua Nha Cua"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39823"
+  },
+  "Id": 73,
+  "Avatar": "foody-73-dichvuvanchuyendodac-635950374564104181.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Dịch Vụ Vận Chuyển Đồ Đạc ",
+  "UrlRewriteName": "dich-vu-van-chuyen-do-dac",
+  "ResultCount": 17,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Dich Vu Van Chuyen Do Dac"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39824"
+  },
+  "Id": 81,
+  "Avatar": "",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Cửa Hàng - Phụ Kiện",
+  "UrlRewriteName": "cua-hang-phu-kien",
+  "ResultCount": 822,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Cua Hang - Phu Kien"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39825"
+  },
+  "Id": 46,
+  "Avatar": "foody-46-daihoccaodang-635950382033380029.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Đại Học & Cao Đẳng",
+  "UrlRewriteName": "dai-hoc-cao-dang",
+  "ResultCount": 346,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Dai Hoc & Cao Dang"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39826"
+  },
+  "Id": 47,
+  "Avatar": "foody-47-trungtamgiaoduc-635950381785837557.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trung tâm giáo dục",
+  "UrlRewriteName": "trung-tam-giao-duc",
+  "ResultCount": 202,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Trung tam giao duc"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39827"
+  },
+  "Id": 48,
+  "Avatar": "foody-48-trungtamngoaingu-635950381519055387.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trung tâm ngoại ngữ",
+  "UrlRewriteName": "trung-tam-ngoai-ngu",
+  "ResultCount": 712,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Trung tam ngoai ngu"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39828"
+  },
+  "Id": 49,
+  "Avatar": "foody-49-nhasachthuvien-635950381249407562.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Nhà sách & Thư viện",
+  "UrlRewriteName": "nha-sach-thu-vien",
+  "ResultCount": 474,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Nha sach & Thu vien"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39829"
+  },
+  "Id": 50,
+  "Avatar": "foody-50-nhatremaugiao-635950380929181753.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Nhà trẻ & Mẫu giáo",
+  "UrlRewriteName": "nha-tre-mau-giao",
+  "ResultCount": 2669,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Nha tre & Mau giao"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3982a"
+  },
+  "Id": 51,
+  "Avatar": "foody-51-trunghocphothong-635950380674111984.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trung học & Phổ Thông",
+  "UrlRewriteName": "trung-hoc-pho-thong",
+  "ResultCount": 1568,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Trung hoc & Pho Thong"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3982b"
+  },
+  "Id": 52,
+  "Avatar": "foody-52-truongdaynghe-635950380352834079.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trường dạy nghề",
+  "UrlRewriteName": "truong-day-nghe",
+  "ResultCount": 132,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Truong day nghe"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3982c"
+  },
+  "Id": 10,
+  "Avatar": "foody-10-shop-cuahang-635950388494338860.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Shop/Cửa hàng",
+  "UrlRewriteName": "cua-hang",
+  "ResultCount": 40478,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Shop/Cua hang"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3982d"
+  },
+  "Id": 30,
+  "Avatar": "foody-30-sieuthi-635950384873882766.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Siêu thị",
+  "UrlRewriteName": "sieu-thi",
+  "ResultCount": 1021,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Sieu thi"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3982e"
+  },
+  "Id": 31,
+  "Avatar": "foody-31-trungtamthuongmai-635950384787156908.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trung tâm thương mại",
+  "UrlRewriteName": "trung-tam-thuong-mai",
+  "ResultCount": 304,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Trung tam thuong mai"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa3982f"
+  },
+  "Id": 67,
+  "Avatar": "foody-67-cho-635950376306335306.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Chợ",
+  "UrlRewriteName": "cho",
+  "ResultCount": 2683,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Cho"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39830"
+  },
+  "Id": 70,
+  "Avatar": "foody-70-muasamonline-635950375409273606.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Mua sắm Online",
+  "UrlRewriteName": "online-shopping",
+  "ResultCount": 1327,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Mua sam Online"
+},{
+  "_id": {
+    "$oid": "64a2acecd9db0c8a6aa39831"
+  },
+  "Id": 5,
+  "Avatar": "foody-05-karaoke-635950389100691799.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Karaoke",
+  "UrlRewriteName": "karaoke",
+  "ResultCount": 3370,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Karaoke"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39832"
+  },
+  "Id": 8,
+  "Avatar": "foody-08-billiards-635950388676872317.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Billiards",
+  "UrlRewriteName": "billiards",
+  "ResultCount": 734,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Billiards"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39833"
+  },
+  "Id": 13,
+  "Avatar": "foody-13-rapchieuphim-635950388007088445.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Rạp chiếu phim",
+  "UrlRewriteName": "giai-tri",
+  "ResultCount": 378,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Rap chieu phim"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39834"
+  },
+  "Id": 23,
+  "Avatar": "foody-23-sankhau-635950386677619312.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Sân khấu",
+  "UrlRewriteName": "san-khau",
+  "ResultCount": 95,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "San khau"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39835"
+  },
+  "Id": 25,
+  "Avatar": "foody-25-khuchoigame-635950385452882037.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Khu chơi Game",
+  "UrlRewriteName": "khu-choi-game",
+  "ResultCount": 667,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Khu choi Game"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39836"
+  },
+  "Id": 14,
+  "Avatar": "foody-14-spa-635950387913487285.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Spa/Massage",
+  "UrlRewriteName": "spa-massage",
+  "ResultCount": 3527,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Spa/Massage"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39837"
+  },
+  "Id": 17,
+  "Avatar": "foody-17-lamtoc-635950387423282881.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Làm tóc/Gội đầu/Nối mi",
+  "UrlRewriteName": "lam-toc",
+  "ResultCount": 12661,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Lam toc/Goi dau/Noi mi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39838"
+  },
+  "Id": 18,
+  "Avatar": "foody-18-theducthammy-635950387352615647.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Thể dục thẩm mỹ",
+  "UrlRewriteName": "the-duc-tham-my",
+  "ResultCount": 705,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "The duc tham my"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39839"
+  },
+  "Id": 22,
+  "Avatar": "foody-22-nail-635950386512281640.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Tiệm nail",
+  "UrlRewriteName": "tiem-nail",
+  "ResultCount": 25493,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tiem nail"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3983a"
+  },
+  "Id": 42,
+  "Avatar": "foody-42-chamsocda-635950382667390192.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Chăm sóc da",
+  "UrlRewriteName": "cham-soc-da",
+  "ResultCount": 864,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Cham soc da"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3983b"
+  },
+  "Id": 41,
+  "Avatar": "foody-41-shophoamypham-635950382914753584.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Shop hóa mỹ phẩm",
+  "UrlRewriteName": "shop-hoa-my-pham",
+  "ResultCount": 2344,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Shop hoa my pham"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3983c"
+  },
+  "Id": 26,
+  "Avatar": "foody-26-thethao-635950385371313021.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Thể dục thể thao",
+  "UrlRewriteName": "ho-boi-san-van-dong",
+  "ResultCount": 592,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "The duc the thao"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3983d"
+  },
+  "Id": 29,
+  "Avatar": "foody-29-thammyvien-635950384961399997.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Thẩm mỹ viện",
+  "UrlRewriteName": "tham-my-vien",
+  "ResultCount": 775,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tham my vien"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3983e"
+  },
+  "Id": 37,
+  "Avatar": "foody-37-xamhinh-635950383800275210.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Xăm hình",
+  "UrlRewriteName": "xam-hinh",
+  "ResultCount": 254,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Xam hinh"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3983f"
+  },
+  "Id": 19,
+  "Avatar": "foody-19-phongkham-635950387170101399.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Phòng khám",
+  "UrlRewriteName": "phong-kham",
+  "ResultCount": 2147,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Phong kham"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39840"
+  },
+  "Id": 20,
+  "Avatar": "foody-20-nhakhoa-635950387056896996.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Nha khoa",
+  "UrlRewriteName": "nha-khoa",
+  "ResultCount": 1677,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Nha khoa"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39841"
+  },
+  "Id": 21,
+  "Avatar": "foody-21-nhathuoc-635950386819507684.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Nhà thuốc",
+  "UrlRewriteName": "nha-thuoc",
+  "ResultCount": 7142,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Nha thuoc"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39842"
+  },
+  "Id": 38,
+  "Avatar": "foody-38-benhvien-635950383615375720.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Bệnh viện",
+  "UrlRewriteName": "benh-vien",
+  "ResultCount": 468,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Benh vien"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39843"
+  },
+  "Id": 9,
+  "Avatar": "foody-09-tieccuoi-635950388581862581.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Tiệc cưới/Hội nghị",
+  "UrlRewriteName": "tiec-cuoi-hoi-nghi",
+  "ResultCount": 1152,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tiec cuoi/Hoi nghi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39844"
+  },
+  "Id": 32,
+  "Avatar": "foody-32-chuphinhcuoi-635950384545261633.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Chụp hình cưới",
+  "UrlRewriteName": "chup-hinh-cuoi",
+  "ResultCount": 1574,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Chup hinh cuoi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39845"
+  },
+  "Id": 33,
+  "Avatar": "foody-33-trangdiem-635950384461192466.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Trang điểm",
+  "UrlRewriteName": "trang-diem",
+  "ResultCount": 453,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Trang diem"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39846"
+  },
+  "Id": 34,
+  "Avatar": "foody-34-aocuoi-635950384392124277.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Áo cưới",
+  "UrlRewriteName": "ao-cuoi",
+  "ResultCount": 977,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Ao cuoi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39847"
+  },
+  "Id": 35,
+  "Avatar": "foody-35-hoacuoishophoa-635950384157730877.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Hoa cưới - Shop hoa",
+  "UrlRewriteName": "hoa-cuoi",
+  "ResultCount": 1384,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Hoa cuoi - Shop hoa"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39848"
+  },
+  "Id": 7,
+  "Avatar": "foody-07-thamquan-chupanh-635950388895014623.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Thăm quan & chụp ảnh",
+  "UrlRewriteName": "khu-du-lich",
+  "ResultCount": 1550,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tham quan & chup anh"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39849"
+  },
+  "Id": 15,
+  "Avatar": "foody-15-hotel-635950387834106011.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Khách sạn",
+  "UrlRewriteName": "khach-san",
+  "ResultCount": 8514,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Khach san"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3984a"
+  },
+  "Id": 65,
+  "Avatar": "foody-65-khunghiduong-635950376838865384.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Khu nghỉ dưỡng",
+  "UrlRewriteName": "khu-nghi-duong",
+  "ResultCount": 949,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Khu nghi duong"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3984b"
+  },
+  "Id": 66,
+  "Avatar": "foody-66-dulichsinhthai-635950376615043180.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Du lịch sinh thái",
+  "UrlRewriteName": "du-lich-sinh-thai",
+  "ResultCount": 447,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Du lich sinh thai"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3984c"
+  },
+  "Id": 63,
+  "Avatar": "foody-63-taudulich-635950377804308260.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Tàu du lịch",
+  "UrlRewriteName": "tau-du-lich",
+  "ResultCount": 162,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tau du lich"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3984d"
+  },
+  "Id": 24,
+  "Avatar": "foody-24-congvien-635950385529148153.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Công viên vui chơi",
+  "UrlRewriteName": "cong-vien-vui-choi",
+  "ResultCount": 273,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Cong vien vui choi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3984e"
+  },
+  "Id": 64,
+  "Avatar": "foody-64-baotangditich-635950377524671118.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Bảo tàng & Di tích",
+  "UrlRewriteName": "bao-tang-di-tich",
+  "ResultCount": 219,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Bao tang & Di tich"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3984f"
+  },
+  "Id": 16,
+  "Avatar": "foody-16-chua-nhatho-635950387741235726.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Chùa & Nhà thờ",
+  "UrlRewriteName": "dia-danh",
+  "ResultCount": 884,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Chua & Nha tho"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39850"
+  },
+  "Id": 40,
+  "Avatar": "foody-40-phongve-635950383155268025.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Phòng Vé Máy Bay",
+  "UrlRewriteName": "phong-ve-may-bay",
+  "ResultCount": 953,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Phong Ve May Bay"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39851"
+  },
+  "Id": 74,
+  "Avatar": "foody-74-chothuexe-635950374102972460.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Phương Tiện - Xe Cộ",
+  "UrlRewriteName": "phuong-tien-xe-co",
+  "ResultCount": 2243,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Phuong Tien - Xe Co"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39852"
+  },
+  "Id": 75,
+  "Avatar": "foody-64x64_pic-category-homestay-636153444612639673.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Homestay",
+  "UrlRewriteName": "home-stay",
+  "ResultCount": 1667,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Homestay"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39853"
+  },
+  "Id": 76,
+  "Avatar": "foody-64x64_pic-category-motel-636266401728242215.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Căn hộ",
+  "UrlRewriteName": "can-ho",
+  "ResultCount": 326,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Can ho"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39854"
+  },
+  "Id": 77,
+  "Avatar": "foody-64x64_pic-category-motel-636153444231017395.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Nhà nghỉ",
+  "UrlRewriteName": "nha-nghi",
+  "ResultCount": 2632,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Nha nghi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39855"
+  },
+  "Id": 78,
+  "Avatar": "foody-64x64_pic-category-hangdulich-636266398440435253.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Hãng Du Lịch",
+  "UrlRewriteName": "hang-du-lich",
+  "ResultCount": 387,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Hang Du Lich"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39856"
+  },
+  "Id": 12,
+  "Avatar": "foody-12-sangtrong-635950388128057921.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Sang trọng",
+  "UrlRewriteName": "sang-trong",
+  "ResultCount": 3038,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Sang trong"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39857"
+  },
+  "Id": 39,
+  "Avatar": "foody-39-buffet-635950383405966956.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Buffet",
+  "UrlRewriteName": "buffet",
+  "ResultCount": 1397,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Buffet"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39858"
+  },
+  "Id": 1,
+  "Avatar": "foody-01-restoran-635950389575416940.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Nhà hàng",
+  "UrlRewriteName": "nha-hang",
+  "ResultCount": 41833,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Nha hang"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39859"
+  },
+  "Id": 11,
+  "Avatar": "foody-11-anvat-635950388395266822.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Ăn vặt/vỉa hè",
+  "UrlRewriteName": "an-vat-via-he",
+  "ResultCount": 72864,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "An vat/via he"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3985a"
+  },
+  "Id": 56,
+  "Avatar": "foody-56-anchay-635950379675005450.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Ăn chay",
+  "UrlRewriteName": "an-chay",
+  "ResultCount": 3297,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "An chay"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3985b"
+  },
+  "Id": 2,
+  "Avatar": "foody-02-kedai kopi-635950389484472462.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Café/Dessert",
+  "UrlRewriteName": "cafe",
+  "ResultCount": 155251,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Cafe/Dessert"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3985c"
+  },
+  "Id": 3,
+  "Avatar": "foody-03-rumah makan-635950389304770706.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Quán ăn",
+  "UrlRewriteName": "quan-an",
+  "ResultCount": 215892,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Quan an"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3985d"
+  },
+  "Id": 4,
+  "Avatar": "foody-04-barpub-635950389189605062.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Bar/Pub",
+  "UrlRewriteName": "bar-pub",
+  "ResultCount": 2633,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Bar/Pub"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3985e"
+  },
+  "Id": 54,
+  "Avatar": "foody-54-quannhau-635950379866739193.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Quán nhậu",
+  "UrlRewriteName": "quan-nhau",
+  "ResultCount": 11077,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Quan nhau"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa3985f"
+  },
+  "Id": 43,
+  "Avatar": "foody-43-beerclub-635950382429048603.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Beer club",
+  "UrlRewriteName": "beer-club",
+  "ResultCount": 648,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Beer club"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39860"
+  },
+  "Id": 6,
+  "Avatar": "foody-06-tiembanh-635950389009259871.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Tiệm bánh",
+  "UrlRewriteName": "tiem-banh",
+  "ResultCount": 11898,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tiem banh"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39861"
+  },
+  "Id": 44,
+  "Avatar": "foody-44-tiectannoi-635950382223863942.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Tiệc tận nơi",
+  "UrlRewriteName": "tiec-tan-noi",
+  "ResultCount": 314,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Tiec tan noi"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39862"
+  },
+  "Id": 27,
+  "Avatar": "foody-27-shoponline-635950385288337691.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Shop Online",
+  "UrlRewriteName": "shop-online",
+  "ResultCount": 28317,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Shop Online"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39863"
+  },
+  "Id": 28,
+  "Avatar": "foody-28-comvanphong-635950385047534150.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Giao cơm văn phòng",
+  "UrlRewriteName": "giao-com-van-phong",
+  "ResultCount": 2688,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Giao com van phong"
+},{
+  "_id": {
+    "$oid": "64a2acedd9db0c8a6aa39864"
+  },
+  "Id": 79,
+  "Avatar": "foody-64x64_pic-category-khuamthuc-636266402889811778.png",
+  "ParentId": 0,
+  "ParentName": null,
+  "Name": "Khu Ẩm Thực",
+  "UrlRewriteName": "Foodcourt",
+  "ResultCount": 2641,
+  "Selected": false,
+  "Min": null,
+  "Max": null,
+  "Children": [],
+  "FilterType": 8,
+  "AsciiName": "Khu Am Thuc"
+}]
